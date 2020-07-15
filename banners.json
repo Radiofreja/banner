@@ -6,5 +6,13 @@
 		{
 			"time": 5,
 			"url": "https://i.imgur.com/UaoloCQ.png"
-		}
+		},
+	
+	{
+            "header": "Welcome",
+           "author": "Auriga",
+           "team"  : "Webmaster",
+           "date"  : ["2015", "12", "12"],
+           "paragraphs" : [
+           "Blah blah blah"
 ]

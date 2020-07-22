@@ -40,14 +40,6 @@
 				"aligment": "left",
 				"textColor": "#FFFFFF",
 				"textAlpha": 100
-		{
-				"text": "jajajajajajajaja:",
-			
-			"textOptions": {
-				"size" : 20,
-				"aligment": "center",
-				"textColor": "#000000",
-				"textAlpha": 100
 			},
 			"backgroundColor": "#000000",
 			"backgroundAlpha": 0,

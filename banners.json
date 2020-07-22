@@ -33,7 +33,7 @@
 		
 		{
 			"time": 5,
-			"text": "VEJRUDSIGTENERTNE:",
+			"text": "VEJRUDSIGT:",
 			
 			"textOptions": {
 				"size" : 26,
@@ -60,4 +60,3 @@
 		}
 		
 ]
-

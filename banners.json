@@ -34,6 +34,8 @@
 		{
 			"time": 5,
 			"text": "VEJRUDSIGT:",
+			"text": "",
+			"text": "sådan er det nu engang",
 			
 			"textOptions": {
 				"size" : 26,

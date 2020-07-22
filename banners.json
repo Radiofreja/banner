@@ -33,15 +33,15 @@
 		
 		{
 			"time": 10,
-			"text": "HJ KAJDFGH kdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
+			"text": "Vejret: I aften og i nat bliver det rigtg koldt. Ikke bare køligt med KOLDT",
 			"textOptions": {
-				"size" : 20,
+				"size" : 28,
 				"aligment": "left",
 				"textColor": "#FFFFFF",
-				"textAlpha": 70
+				"textAlpha": 100
 			},
 			"backgroundColor": "#000000",
-			"backgroundAlpha": 20,
+			"backgroundAlpha": 10,
 			"corner": 10,
 			"size": {
 					"height": 700,

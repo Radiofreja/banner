@@ -34,12 +34,19 @@
 		{
 			"time": 5,
 			"text": "VEJRUDSIGTENERTNE:",
-			"text2": "hej med dig der",
 			
 			"textOptions": {
 				"size" : 26,
 				"aligment": "left",
 				"textColor": "#FFFFFF",
+				"textAlpha": 100
+		{
+				"text": "jajajajajajajaja:",
+			
+			"textOptions": {
+				"size" : 20,
+				"aligment": "center",
+				"textColor": "#000000",
 				"textAlpha": 100
 			},
 			"backgroundColor": "#000000",

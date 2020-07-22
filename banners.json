@@ -19,7 +19,7 @@
 			"time": 10,
 			"urlImage": "https://i.imgur.com/UaoloCQ.png",
 			"backgroundColor": "#0091FF",
-			"backgroundAlpha": 50,
+			"backgroundAlpha": 0,
 			"corner": 0,
 			"size": {
 					"width": 200,
@@ -40,8 +40,8 @@
 				"textColor": "#FFFFFF",
 				"textAlpha": 70
 			},
-			"backgroundColor": "#F7B500",
-			"backgroundAlpha": 50,
+			"backgroundColor": "#000000",
+			"backgroundAlpha": 20,
 			"corner": 10,
 			"size": {
 					"width": 400,

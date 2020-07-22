@@ -1,6 +1,6 @@
 [
 		{
-			"time": 10,
+			"time": 2,
 			"urlImage": "https://i.imgur.com/9QxWjO8.png",
 			"backgroundColor": "#E02020",
 			"backgroundAlpha": 0,
@@ -16,7 +16,7 @@
 		,
 		
 		{
-			"time": 10,
+			"time": 2,
 			"urlImage": "https://i.imgur.com/UaoloCQ.png",
 			"backgroundColor": "#0091FF",
 			"backgroundAlpha": 0,
@@ -32,7 +32,7 @@
 		,
 		
 		{
-			"time": 10,
+			"time": 5,
 			"text": "   Vejret: I aften og i nat bliver det rigtg koldt. Ikke bare køligt med KOLDT",
 			"textOptions": {
 				"size" : 30,
@@ -44,9 +44,9 @@
 			"backgroundAlpha": 10,
 			"corner": 10,
 			"size": {
-					"width": 800,
+					"width": 550,
     				"right": 10,
-    				"top": 100
+    				"top": 150
 			}
 		}
 		

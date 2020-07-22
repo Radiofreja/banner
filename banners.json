@@ -8,7 +8,7 @@
     "size": {
       "width": 200,
       "height": 74,
-      "right": -40,
+      "right": 10,
       "top": 20
     }
   },
@@ -39,7 +39,7 @@
     "corner": 10,
     "size": {
       "width": 400,
-      "right": 20,
+      "right": 0,
       "top": 135
     }
   }

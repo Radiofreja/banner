@@ -17,15 +17,15 @@
 		
 		{
 			"time": 5,
-			"urlImage": "https://i.imgur.com/o1acl4z.jpg",
+			"urlImage": "https://i.imgur.com/hXKK0t9.png",
 			"backgroundColor": "#0091FF",
 			"backgroundAlpha": 0,
-			"corner": 10,
+			"corner": 0,
 			"size": {
 					"width": 400,
-    				"height": 611,
-    				"right": 10,
-    				"top": 135
+    				"height": 900,
+    				"right": 0,
+    				"top": 0
 			}
 		}
 		

@@ -27,7 +27,7 @@
   },
   {
     "time": 5,
-    "text": "VEJRUDSIGTEN\n\nResten af dagen mest tørt og nogen sol.\nI nat tørt og til dels klart vejr, men i Vestjylland efterhånden mest skyet. Temp. ned mellem 7 og 12 grader, og svag til jævn vind mellem sydvest og nordvest, ved Kattegatkyster stedvis op til frisk vind.\nTorsdag starter de fleste steder tørt med nogen eller i de østlige egne en del sol, men efterhånden mere skyet fra vest og der kan komme lidt regn hist og her.Temp. op mellem 14 og 21 grader, køligst i den vestlige del, og svag til jævn vind fra vest og sydvest.",
+    "text": "    VEJRUDSIGTEN\n\n    Resten af dagen mest tørt og nogen sol.\n    I nat tørt og til dels klart vejr, men i Vestjylland efterhånden mest skyet. Temp. ned mellem 7 og 12 grader, og svag til jævn vind mellem sydvest og nordvest, ved Kattegatkyster stedvis op til frisk vind.\n    Torsdag starter de fleste steder tørt med nogen eller i de østlige egne en del sol, men efterhånden mere skyet fra vest og der kan komme lidt regn hist og her. Temp. op mellem 14 og 21 grader, køligst i den vestlige del, og svag til jævn vind fra vest og sydvest.",
     "textOptions": {
       "size": 26,
       "aligment": "left",
@@ -35,7 +35,7 @@
       "textAlpha": 100
     },
     "backgroundColor": "#000000",
-    "backgroundAlpha": 0,
+    "backgroundAlpha": 10,
     "corner": 10,
     "size": {
       "width": 400,

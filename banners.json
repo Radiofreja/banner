@@ -35,7 +35,7 @@
 			"time": 10,
 			"text": "   Vejret: I aften og i nat bliver det rigtg koldt. Ikke bare køligt med KOLDT",
 			"textOptions": {
-				"size" : 40,
+				"size" : 30,
 				"aligment": "left",
 				"textColor": "#FFFFFF",
 				"textAlpha": 100
@@ -46,7 +46,7 @@
 			"size": {
 					"width": 800,
     				"right": 10,
-    				"top": 200
+    				"top": 100
 			}
 		}
 		

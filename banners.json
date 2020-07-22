@@ -1,54 +1,46 @@
 [
-		{
-			"time": 2,
-			"urlImage": "https://i.imgur.com/kCzYjeT.png",
-			"backgroundColor": "#E02020",
-			"backgroundAlpha": 0,
-			"corner": 0,
-			"size": {
-					"width": 200,
-    				"height": 74,
-    				"right": 10,
-    				"top": 20
-			}
-		}
-		
-		,
-		
-		{
-			"time": 5,
-			"urlImage": "https://i.imgur.com/hXKK0t9.png",
-			"backgroundColor": "#0091FF",
-			"backgroundAlpha": 0,
-			"corner": 0,
-			"size": {
-					"width": 400,
-    				"height": 870,
-    				"right": 0,
-    				"top": 0
-			}
-		}
-		
-		,
-		
-		{
-			"time": 5,
-			"text": "VEJRUDSIGT:",
-			
-			"textOptions": {
-				"size" : 26,
-				"aligment": "left",
-				"textColor": "#FFFFFF",
-				"textAlpha": 100
-			},
-			"backgroundColor": "#000000",
-			"backgroundAlpha": 0,
-			"corner": 10,
-			"size": {
-					"width": 400,
-    				"right": 10,
-    				"top": 135
-			}
-		}
-		
+  {
+    "time": 2,
+    "urlImage": "https://i.imgur.com/kCzYjeT.png",
+    "backgroundColor": "#E02020",
+    "backgroundAlpha": 0,
+    "corner": 0,
+    "size": {
+      "width": 200,
+      "height": 74,
+      "right": 10,
+      "top": 20
+    }
+  },
+  {
+    "time": 5,
+    "urlImage": "https://i.imgur.com/hXKK0t9.png",
+    "backgroundColor": "#0091FF",
+    "backgroundAlpha": 0,
+    "corner": 0,
+    "size": {
+      "width": 400,
+      "height": 870,
+      "right": 0,
+      "top": 0
+    }
+  },
+  {
+    "time": 5,
+    "text": "VEJRUDSIGT:",
+    "textOptions": {
+      "size": 26,
+      "aligment": "left",
+      "textColor": "#FFFFFF",
+      "textAlpha": 100
+    },
+    "backgroundColor": "#000000",
+    "backgroundAlpha": 0,
+    "corner": 10,
+    "size": {
+      "width": 400,
+      "right": 10,
+      "top": 135
+    }
+  }
 ]

@@ -33,12 +33,13 @@
 		
 		{
 			"time": 5,
-			"text": "VEJRUDSIGT:",\n "hej med dig",
+			"text": "VEJRUDSIGTEN:",\n "hej med dig",
 			
 			"textOptions": {
 				"size" : 26,
 				"aligment": "left",
 				"textColor": "#FFFFFF",
+				"bold": "1",
 				"textAlpha": 100
 			},
 			"backgroundColor": "#000000",

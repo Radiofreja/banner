@@ -33,10 +33,10 @@
 		
 		{
 			"time": 5,
-			"text": "Vejret:                           hej med dig, så er der ski vejret. Det bliver fint men det kommer til at regne næsten over det hele. Bliver det godt ? Nææææ det skal du ikke regne med overhovedet",
+			"text": "Vejret:                                   hej med dig, så er der ski vejret. Det bliver fint men det kommer til at regne næsten over det hele. Bliver det godt ? Nææææ det skal du ikke regne med overhovedet",
 			"textOptions": {
-				"size" : 25,
-				"aligment": "center",
+				"size" : 28,
+				"aligment": "left",
 				"textColor": "#FFFFFF",
 				"textAlpha": 100
 			},

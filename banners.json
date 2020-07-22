@@ -1,10 +1,53 @@
 [
 		{
-			"time": 5,
-			"url": "https://i.imgur.com/8aaM8ib.png"
-		},
-		{
-			"time": 5,
-			"url": "https://i.imgur.com/UaoloCQ.png"
+			"time": 10,
+			"urlImage": "https://i.imgur.com/4XPhOvj.png",
+			"backgroundColor": "#E02020",
+			"backgroundAlpha": 0,
+			"corner": 0,
+			"size": {
+					"width": 300,
+    				"height": 200,
+    				"right": 10,
+    				"top": 20
+			}
 		}
+		
+		,
+		
+		{
+			"time": 10,
+			"urlImage": "https://i.imgur.com/UaoloCQ.png",
+			"backgroundColor": "#0091FF",
+			"backgroundAlpha": 50,
+			"corner": 0,
+			"size": {
+					"width": 200,
+    				"height": 50,
+    				"right": 10,
+    				"top": 20
+			}
+		}
+		
+		,
+		
+		{
+			"time": 10,
+			"text": "HJ KAJDFGH kdsjf KASGDF kAHGSF kjagsf djgaLD gSAKGF DHASDFG",
+			"textOptions": {
+				"size" : 20,
+				"aligment": "left",
+				"textColor": "#6DD400",
+				"textAlpha": 70
+			},
+			"backgroundColor": "#F7B500",
+			"backgroundAlpha": 50,
+			"corner": 10,
+			"size": {
+					"width": 400,
+    				"right": 10,
+    				"top": 20
+			}
+		}
+		
 ]

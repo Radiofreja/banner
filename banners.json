@@ -34,12 +34,12 @@
 		{
 			"time": 5,
 			"text": "VEJRUDSIGTENERTNE:",
+			"text2": "hej med dig der",
 			
 			"textOptions": {
 				"size" : 26,
 				"aligment": "left",
 				"textColor": "#FFFFFF",
-				"bold": "1",
 				"textAlpha": 100
 			},
 			"backgroundColor": "#000000",

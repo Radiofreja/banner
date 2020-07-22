@@ -33,7 +33,7 @@
 		
 		{
 			"time": 5,
-			"text": "Vejret: 			Udsigt, der gælder til torsdag morgen, udsendt kl. 13.35 - Især over den sydlige del af landet mulighed for enkelte byger, ellers tørt og nogen eller en del sol. Temp. mellem 15 og 20 grader, og let til frisk vind fra vest og nordvest, ved kysterne stedvis op til hård vind. I aften tørt og nogen sol, men i nat efterhånden mere skyet med vest. Temp. ned mellem 7 og 12 grader, og vinden aftager og bliver svag til jævn mellem sydvest og nordvest, ved Kattegatkyster stedvis op til frisk vind.",
+			"text": "Vejret:",
 			"textOptions": {
 				"size" : 25,
 				"aligment": "center",

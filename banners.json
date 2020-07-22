@@ -14,15 +14,15 @@
   },
   {
     "time": 5,
-    "urlImage": "https://i.imgur.com/o1acl4z.jpg?1",
+    "urlImage": "https://i.imgur.com/LuWWaUs.png",
     "backgroundColor": "#0091FF",
     "backgroundAlpha": 0,
     "corner": 0,
     "size": {
       "width": 400,
-      "height": 611,
-      "right": -10,
-      "top": 135
+      "height": 1080,
+      "right": 20,
+      "top": -20
     }
   },
   {

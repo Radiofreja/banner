@@ -1,13 +1,13 @@
 [
 		{
 			"time": 2,
-			"urlImage": "https://i.imgur.com/9QxWjO8.png",
+			"urlImage": "https://i.imgur.com/kCzYjeT.png",
 			"backgroundColor": "#E02020",
 			"backgroundAlpha": 0,
 			"corner": 0,
 			"size": {
-					"width": 300,
-    				"height": 111,
+					"width": 200,
+    				"height": 74,
     				"right": 10,
     				"top": 20
 			}

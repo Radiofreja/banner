@@ -44,7 +44,6 @@
 			"backgroundAlpha": 10,
 			"corner": 10,
 			"size": {
-					"height": 700,
 					"width": 400,
     				"right": 10,
     				"top": 20

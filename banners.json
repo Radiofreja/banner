@@ -14,7 +14,33 @@
   },
   {
     "time": 5,
+    "urlImage": "https://i.imgur.com/kixredk.png?1",
+    "backgroundColor": "#E02020",
+    "backgroundAlpha": 0,
+    "corner": 0,
+    "size": {
+      "width": 200,
+      "height": 74,
+      "right": -10,
+      "top": 10
+    }
+  },
+  {
+    "time": 5,
     "urlImage": "https://i.imgur.com/8pe0poV.png?1",
+    "backgroundColor": "#E02020",
+    "backgroundAlpha": 0,
+    "corner": 0,
+    "size": {
+      "width": 200,
+      "height": 74,
+      "right": -10,
+      "top": 10
+    }
+  },
+  {
+    "time": 5,
+    "urlImage": "https://i.imgur.com/CILXlWQ.png?1",
     "backgroundColor": "#E02020",
     "backgroundAlpha": 0,
     "corner": 0,
@@ -72,6 +98,19 @@
       "width": 450,
       "right": -30,
       "top": 130
+    }
+  },
+  {
+    "time": 3,
+    "urlImage": "",
+    "backgroundColor": "#E02020",
+    "backgroundAlpha": 0,
+    "corner": 0,
+    "size": {
+      "width": 200,
+      "height": 46,
+      "right": -10,
+      "top": 20
     }
   }
 ]

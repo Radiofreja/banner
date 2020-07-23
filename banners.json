@@ -47,9 +47,10 @@
       "textColor": "#FFFFFF",
       "textAlpha": 100
     },
+    "urlImage": "https://i.imgur.com/kCzYjeT.png",
     "backgroundColor": "#000000",
     "backgroundAlpha": 0,
-    "corner": 10,
+    "corner": 0,
     "size": {
       "width": 450,
       "right": -30,

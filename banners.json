@@ -8,7 +8,7 @@
     "size": {
       "width": 200,
       "height": 74,
-      "right": -10,
+      "right": -20,
       "top": 10
     }
   },
@@ -21,7 +21,7 @@
     "size": {
       "width": 200,
       "height": 48,
-      "right": -10,
+      "right": -20,
       "top": 10
     }
   },
@@ -34,7 +34,7 @@
     "size": {
       "width": 200,
       "height": 46,
-      "right": -10,
+      "right": -20,
       "top": 10
     }
   },
@@ -47,7 +47,7 @@
     "size": {
       "width": 200,
       "height": 46,
-      "right": -10,
+      "right": -20,
       "top": 20
     }
   },
@@ -68,7 +68,7 @@
     "time": 15,
     "text": "<b>VEJRUDSIGTEN:</b></br></br>Resten af dagen mest tørt og nogen sol.</br>I nat tørt og til dels klart vejr, men i Vestjylland efterhånden mest skyet.</br>Temp. ned mellem 7 og 12 grader, og svag til jævn vind mellem sydvest og nordvest, ved Kattegatkyster stedvis op til frisk vind.</br></br>Torsdag starter de fleste steder tørt med nogen eller i de østlige egne en del sol, men efterhånden mere skyet fra vest og der kan komme lidt regn hist og her.</br>Temp. op mellem 14 og 21 grader, køligst i den vestlige del, og svag til jævn vind fra vest og sydvest.",
     "textOptions": {
-      "size": 200,
+      "size": 180,
       "aligment": "left",
       "textColor": "#FFFFFF",
       "textAlpha": 100
@@ -86,7 +86,7 @@
     "time": 15,
     "text": "<b>NYHEDER:</b></br></br>Fly fra Sverige og Tyskland samt to danske helikoptere er netop nu i færd med en større redningsaktion..</br>Årsagen er, at et fragtskib ved Bornholm har meldt et besætningsmedlem savnet, og de frygter, at manden er faldet over bord.</br></br>Det er Forsvarets Operationscenter, der ifølge B.T har oplyst, at skibet var på vej mod Riga i Letland. Derfor efterforskes der nu i et stort område.</br>Civile er ligeledes blevet bedt om at holde udkig efter besætningsmedlemmet, der er forsvundet.",
     "textOptions": {
-      "size": 200,
+      "size": 180,
       "aligment": "left",
       "textColor": "#FFFFFF",
       "textAlpha": 100

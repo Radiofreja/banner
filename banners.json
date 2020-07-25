@@ -53,13 +53,13 @@
   },
   {
     "time": 15,
-    "urlImage": "https://i.imgur.com/BU0XFAU.png",
+    "urlImage": "https://i.imgur.com/1TpNkvG.png",
     "backgroundColor": "#E02020",
     "backgroundAlpha": 0,
     "corner": 0,
     "size": {
-      "width": 400,
-      "height": 600,
+      "width": 450,
+      "height": 700,
       "right": -30,
       "top": 130
     }

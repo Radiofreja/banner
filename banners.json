@@ -59,6 +59,21 @@
     }
   },
   {
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/goLLEoc.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 900,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+  {
     "time": 5,
     "image": {
       "urlImage": "https://i.imgur.com/kixredk.png?1",

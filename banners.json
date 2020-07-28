@@ -2,13 +2,13 @@
   {
     "time": 10,
     "gif": {
-      "urlImage": "https://i.imgur.com/iMH3cIH.gif",
+      "urlImage": "https://i.imgur.com/ttNe28x.gif",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 20,
       "size": {
-        "width": 488,
-        "height": 1080,
+        "width": 300,
+        "height": 300,
         "right": -20,
         "top": -50
       }

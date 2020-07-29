@@ -1,6 +1,6 @@
 [
   {
-    "time": 1,
+    "time": 2,
     "gif": {
       "urlImage": "",
       "backgroundColor": "#E02020",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "time": 1,
+    "time": 2,
     "gif": {
       "urlImage": "",
       "backgroundColor": "#E02020",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "time": 5,
+    "time": 10,
     "gif": {
       "urlImage": "",
       "backgroundColor": "#E02020",

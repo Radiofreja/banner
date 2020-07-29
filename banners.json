@@ -121,15 +121,15 @@
   {
     "time": 15,
     "image": {
-      "urlImage": "https://i.imgur.com/8CZZXq7.png",
+      "urlImage": "https://i.imgur.com/ZsL2RZF.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
       "size": {
         "width": 450,
-        "height": 700,
+        "height": 850,
         "right": -30,
-        "top": 130
+        "top": 80
       }
     }
   },

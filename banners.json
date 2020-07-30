@@ -28,10 +28,10 @@
     "text": {
       "text": "<b>RADIO FREJA APP</b></br></br>Du kan tage Radio Freja med dig overalt. Hent vores app i AppStore eller GooglePlay",
       "textOptions": {
-        "size": 180,
+        "size": 190,
         "aligment": "center",
         "textColor": "#FFFFFF",
-        "textAlpha": 130
+        "textAlpha": 100
       },
       "backgroundColor": "#000000",
       "backgroundAlpha": 0,
@@ -39,7 +39,7 @@
       "size": {
         "width": 450,
         "right": -30,
-        "top": 100
+        "top": 130
       }
     }
   },

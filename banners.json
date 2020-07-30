@@ -1,15 +1,135 @@
 [
   {
     "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/CILXlWQ.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 48,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+ {
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/kixredk.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 48,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+ {
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/kCzYjeT.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 74,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+{
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/8pe0poV.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 46,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+{
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/CILXlWQ.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 48,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+ {
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/kixredk.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 48,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+ {
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/kCzYjeT.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 74,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+{
+    "time": 10,
+    "image": {
+      "urlImage": "https://i.imgur.com/8pe0poV.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 200,
+        "height": 46,
+        "right": -20,
+        "top": 10
+      }
+    }
+  },
+{
+    "time": 10,
     "gif": {
-      "urlImage": "https://i.imgur.com/U8a3RxY.gif",
+      "urlImage": "",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 20,
       "size": {
-        "width": 50,
-        "height": 50,
-        "right": -160,
+        "width": 90,
+        "height": 90,
+        "right": -130,
         "top": 10
       }
     },
@@ -26,7 +146,7 @@
       }
     },
     "text": {
-      "text": "<b>Radio Freja App</b></br></br>Du kan tage Radio Freja med dig overalt.</br>Hent vores app i AppStore eller GooglePlay",
+      "text": "<b style='font-size: 120% !important;'>Hent Radio Freja Appen</b></br></br>“,
       "textOptions": {
         "size": 200,
         "aligment": "left",
@@ -43,25 +163,34 @@
       }
     }
   },
-  {
-    "time": 5,
+{
+    "time": 20,
+    "gif": {
+      "urlImage": "https://i.imgur.com/U8a3RxY.gif",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 20,
+      "size": {
+        "width": 50,
+        "height": 50,
+        "right": -160,
+        "top": 10
+      }
+    },
     "image": {
-      "urlImage": "https://i.imgur.com/kCzYjeT.png",
+      "urlImage": "https://i.imgur.com/qf2hJ3D.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
       "size": {
         "width": 200,
-        "height": 74,
-        "right": -20,
+        "height": 50,
+        "right": -30,
         "top": 10
       }
-    }
-  },
-  {
-    "time": 15,
+    },
     "text": {
-      "text": "<b></b></br><b style='font-size: 120% !important;'>Politi afblæser stor aktion i Nordsjælland</b></br></br>Betjente, polititeknikere og flere hunde afsøgte fra tidligt torsdag morgen et område mellem Vejby og Tisvildeleje. Det skyldes, at Nordsjællands Politi kort før klokken 06 havde modtaget en anmeldelse om en sædelighedsforbrydelse.</br></br>Omkring middagstid var undersøgelserne dog ovre, oplyser Henriette Døssing, presse- og kommunikationskonsulent ved Nordsjællands Politi.",
+      "text": "<b style='font-size: 120% !important;'>Overskrift Nyhed</b></br></br>Her skrives nyheden som den skal være</br>Og så er vi på næste linje",
       "textOptions": {
         "size": 200,
         "aligment": "left",
@@ -79,37 +208,46 @@
     }
   },
   {
-    "time": 15,
-    "text": {
-      "text": "<b>Vejret</b></br></br>",
-      "textOptions": {
-        "size": 190,
-        "aligment": "left",
-        "textColor": "#FFFFFF",
-        "textAlpha": 100
-      },
-      "backgroundColor": "#000000",
-      "backgroundAlpha": 0,
-      "corner": 10,
-      "size": {
-        "width": 450,
-        "right": -30,
-        "top": 130
-      }
-    }
-  },
-  {
-    "time": 3,
-    "image": {
+    "time": 20,
+    "gif": {
       "urlImage": "",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
+      "corner": 20,
+      "size": {
+        "width": 90,
+        "height": 90,
+        "right": -160,
+        "top": 10
+      }
+    },
+    "image": {
+      "urlImage": "https://i.imgur.com/NdOUD27.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
       "corner": 0,
       "size": {
         "width": 200,
-        "height": 46,
-        "right": -10,
-        "top": 20
+        "height": 50,
+        "right": -30,
+        "top": 10
+      }
+    },
+    "text": {
+      "text": "<b style='font-size: 120% !important;'>Overskrift Vejret</b></br></br>Her skrives vejret som det skal være</br>Og så er vi på næste linje",
+      "textOptions": {
+        "size": 200,
+        "aligment": "left",
+        "textColor": "#FFFFFF",
+        "textAlpha": 100
+      },
+      "backgroundColor": "#000000",
+      "backgroundAlpha": 0,
+      "corner": 10,
+      "size": {
+        "width": 450,
+        "right": -30,
+        "top": 130
       }
     }
   }

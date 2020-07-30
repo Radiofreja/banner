@@ -28,8 +28,8 @@
     "text": {
       "text": "<b>RADIO FREJA APP</b></br></br>Du kan tage Radio Freja med dig overalt.</br>Hent vores app i AppStore eller GooglePlay",
       "textOptions": {
-        "size": 190,
-        "aligment": "center",
+        "size": 200,
+        "aligment": "left",
         "textColor": "#FFFFFF",
         "textAlpha": 100
       },
@@ -63,8 +63,8 @@
     "text": {
       "text": "<b>NYHEDER</b></br>Politi afblæser stor aktion i Nordsjælland</br></br>Betjente, polititeknikere og flere hunde afsøgte fra tidligt torsdag morgen et område mellem Vejby og Tisvildeleje. Det skyldes, at Nordsjællands Politi kort før klokken 06 havde modtaget en anmeldelse om en sædelighedsforbrydelse.</br></br>Omkring middagstid var undersøgelserne dog ovre, oplyser Henriette Døssing, presse- og kommunikationskonsulent ved Nordsjællands Politi.",
       "textOptions": {
-        "size": 190,
-        "aligment": "center",
+        "size": 200,
+        "aligment": "left",
         "textColor": "#FFFFFF",
         "textAlpha": 100
       },
@@ -84,7 +84,7 @@
       "text": "<b>VEJRUDSIGTEN</b></br></br>",
       "textOptions": {
         "size": 190,
-        "aligment": "center",
+        "aligment": "left",
         "textColor": "#FFFFFF",
         "textAlpha": 100
       },

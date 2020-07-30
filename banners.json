@@ -22,7 +22,7 @@
         "width": 450,
         "height": 700,
         "right": -30,
-        "top": 230
+        "top": 260
       }
     },
     "text": {
@@ -31,7 +31,7 @@
         "size": 180,
         "aligment": "center",
         "textColor": "#FFFFFF",
-        "textAlpha": 100
+        "textAlpha": 130
       },
       "backgroundColor": "#000000",
       "backgroundAlpha": 0,
@@ -74,7 +74,7 @@
       "size": {
         "width": 450,
         "right": -30,
-        "top": 100
+        "top": 130
       }
     }
   },

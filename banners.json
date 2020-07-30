@@ -69,7 +69,7 @@
         "textAlpha": 100
       },
       "backgroundColor": "#000000",
-      "backgroundAlpha": 7,
+      "backgroundAlpha": 0,
       "corner": 10,
       "size": {
         "width": 450,

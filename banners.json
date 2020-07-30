@@ -1,6 +1,6 @@
 [
   {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/CILXlWQ.png",
       "backgroundColor": "#E02020",
@@ -15,7 +15,7 @@
     }
   },
  {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/kixredk.png",
       "backgroundColor": "#E02020",
@@ -30,7 +30,7 @@
     }
   },
  {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/kCzYjeT.png",
       "backgroundColor": "#E02020",
@@ -45,7 +45,7 @@
     }
   },
 {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/8pe0poV.png",
       "backgroundColor": "#E02020",
@@ -60,7 +60,7 @@
     }
   },
 {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/CILXlWQ.png",
       "backgroundColor": "#E02020",
@@ -75,7 +75,7 @@
     }
   },
  {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/kixredk.png",
       "backgroundColor": "#E02020",
@@ -90,7 +90,7 @@
     }
   },
  {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/kCzYjeT.png",
       "backgroundColor": "#E02020",
@@ -105,7 +105,7 @@
     }
   },
 {
-    "time": 10,
+    "time": 1,
     "image": {
       "urlImage": "https://i.imgur.com/8pe0poV.png",
       "backgroundColor": "#E02020",
@@ -120,7 +120,7 @@
     }
   },
 {
-    "time": 10,
+    "time": 1,
     "gif": {
       "urlImage": "",
       "backgroundColor": "#E02020",
@@ -173,7 +173,7 @@
       "size": {
         "width": 50,
         "height": 50,
-        "right": -160,
+        "right": -220,
         "top": 10
       }
     },

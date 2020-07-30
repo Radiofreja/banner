@@ -14,7 +14,7 @@
       }
     },
     "image": {
-      "urlImage": "https://i.imgur.com/3wZ7G3b.png",
+      "urlImage": "https://i.imgur.com/87fVxW5.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
@@ -22,7 +22,7 @@
         "width": 450,
         "height": 700,
         "right": -20,
-        "top": 130
+        "top": 145
       }
     },
     "text": {

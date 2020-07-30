@@ -22,11 +22,11 @@
         "width": 450,
         "height": 700,
         "right": -20,
-        "top": 145
+        "top": 170
       }
     },
     "text": {
-      "text": "<b>RADIO FREJA APP</b>",
+      "text": "<b>RADIO FREJA APP</b></br></br>Du kan tage Radio Freja med dig overalt. Hent vores app i AppStore eller GooglePlay",
       "textOptions": {
         "size": 180,
         "aligment": "center",

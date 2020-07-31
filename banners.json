@@ -183,8 +183,8 @@
       "backgroundAlpha": 0,
       "corner": 0,
       "size": {
-        "width": 200,
-        "height": 50,
+        "width": 300,
+        "height": 70,
         "right": -30,
         "top": 8
       }
@@ -227,8 +227,8 @@
       "backgroundAlpha": 0,
       "corner": 0,
       "size": {
-        "width": 200,
-        "height": 50,
+        "width": 300,
+        "height": 70,
         "right": -30,
         "top": 8
       }

@@ -120,6 +120,21 @@
     }
   },
 {
+    "time": 5,
+    "image": {
+      "urlImage": "",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 300,
+        "height": 70,
+        "right": -5,
+        "top": 5
+      }
+    }
+  },
+{
     "time": 10,
     "gif": {
       "urlImage": "",

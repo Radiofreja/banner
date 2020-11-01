@@ -149,7 +149,7 @@
       }
     },
     "image": {
-      "urlImage": "https://i.imgur.com/B0fiOvP.png",
+      "urlImage": "https://i.imgur.com/8yI6HqO.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
@@ -161,7 +161,7 @@
       }
     },
     "text": {
-      "text": "<b style='font-size: 120% !important;'>Hent Radio Freja Appen</b></br></br>Du kan lytte til Radio Freja og Radio Freja Rock når du er på farten.</br>Du finder os i AppStore eller GooglePlay.",
+      "text": "<b style='font-size: 120% !important;'>Hent Radio Freja Appen</b></br></br>Du kan lytte til Radio Freja når du er på farten.</br>Du finder os i AppStore eller GooglePlay.",
       "textOptions": {
         "size": 200,
         "aligment": "left",

@@ -151,7 +151,7 @@
     "image": {
       "urlImage": "https://i.imgur.com/8yI6HqO.png",
       "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
+      "backgroundAlpha": 10,
       "corner": 0,
       "size": {
         "width": 450,

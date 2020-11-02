@@ -2,22 +2,22 @@
   {
     "time": 5,
     "image": {
-      "urlImage": "https://i.imgur.com/bIRaSON.png",
+      "urlImage": "https://i.imgur.com/oDGfQy3.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
       "size": {
-        "width": 300,
-        "height": 70,
-        "right": -5,
-        "top": 5
+        "width": 450,
+        "height": 940,
+        "right": 40,
+        "top": -60
       }
     }
   },
  {
     "time": 5,
     "image": {
-      "urlImage": "https://i.imgur.com/N7MMeUh.png",
+      "urlImage": "https://i.imgur.com/oDGfQy3.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,

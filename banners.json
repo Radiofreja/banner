@@ -149,7 +149,7 @@
       }
     },
     "image": {
-      "urlImage": "https://i.imgur.com/bq8Mwz5.png",
+      "urlImage": "https://i.imgur.com/Ihylaso.png",
       "backgroundColor": "#E02020",
       "backgroundAlpha": 0,
       "corner": 0,
@@ -172,8 +172,8 @@
       "backgroundAlpha": 0,
       "corner": 10,
       "size": {
-        "width": 450,
-        "right": -10,
+        "width": 350,
+        "right": 10,
         "top": 130
       }
     }

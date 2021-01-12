@@ -239,7 +239,7 @@
     }
   },
 {
-    "time": 3,
+    "time": 1,
     "image": {
       "urlImage": "",
       "backgroundColor": "#E02020",
@@ -252,8 +252,7 @@
         "top": 4
       }
     }
-  }
-    },
+  },
 {
     "time": 20,
     "gif": {
@@ -295,22 +294,7 @@
         "width": 350,
         "right": 10,
         "top": 70
-      }
     }
-  },
-{
-    "time": 3,
-    "image": {
-      "urlImage": "",
-      "backgroundColor": "#E02020",
-      "backgroundAlpha": 0,
-      "corner": 0,
-      "size": {
-        "width": 300,
-        "height": 70,
-        "right": -5,
-        "top": 4
-      }
-    }
+   }
   }
 ]

@@ -263,22 +263,6 @@
         "right": 40,
         "top": -60
       }
-    },
-    "text": {
-      "text": "<b style='font-size: 120% !important;'>WWW.FREJAMOBIL.DK</b></br></br>Få et simpelt og billigt mobilabonnemet til KUN 59kr om måneden frem til 30. April 2021. Fri tale og masser af data hos Freja Mobil",
-      "textOptions": {
-        "size": 200,
-        "aligment": "left",
-        "textColor": "#FFFFFF",
-        "textAlpha": 100
-      },
-      "backgroundColor": "#000000",
-      "backgroundAlpha": 0,
-      "corner": 10,
-      "size": {
-        "width": 350,
-        "right": 10,
-        "top": 70
     }
    }
   }

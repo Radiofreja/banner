@@ -251,6 +251,27 @@
         "right": -130,
         "top": 10
       }
+    },
+    "image": {
+      "urlImage": "https://i.imgur.com/k2uvEcG.png",
+      "backgroundColor": "#E02020",
+      "backgroundAlpha": 0,
+      "corner": 0,
+      "size": {
+        "width": 450,
+        "height": 940,
+        "right": 40,
+        "top": -60
+       }
+      },
+      "backgroundColor": "#000000",
+      "backgroundAlpha": 0,
+      "corner": 10,
+      "size": {
+        "width": 350,
+        "right": 10,
+        "top": 70
     }
    }
+  }
 ]

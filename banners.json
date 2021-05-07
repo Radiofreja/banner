@@ -262,7 +262,15 @@
         "height": 940,
         "right": 40,
         "top": -60
-       }
+      }
+    },
+    "text": {
+      "text": "<b style='font-size: 120% !important;'>
+      "textOptions": {
+        "size": 200,
+        "aligment": "left",
+        "textColor": "#FFFFFF",
+        "textAlpha": 100
       },
       "backgroundColor": "#000000",
       "backgroundAlpha": 0,
